@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "club-website-backend", "club-website-backend.csproj", "{5AEBA5E6-A91E-9620-8CA8-63157458E53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AEBA5E6-A91E-9620-8CA8-63157458E53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEBA5E6-A91E-9620-8CA8-63157458E53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEBA5E6-A91E-9620-8CA8-63157458E53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEBA5E6-A91E-9620-8CA8-63157458E53D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5D4E86-A884-4263-9BCA-24B6BD98C1D1}
+	EndGlobalSection
+EndGlobal
