@@ -17,6 +17,14 @@ public partial class Member
 
     public string? Bio { get; set; }
 
+    public bool is_verified { get; set; }
+
+    public string? Tempcode { get; set; }
+
+    public string? Linkedin {get; set;}
+
+    public string? Github {get; set;}
+
     public virtual ICollection<Event> Events { get; set; } = new List<Event>();
 
     public virtual ICollection<Major> MajorNames { get; set; } = new List<Major>();

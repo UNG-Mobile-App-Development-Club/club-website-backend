@@ -120,3 +120,14 @@
 /root/club-website-backend/CodeHawksApi/obj/Debug/net10.0/CodeHawksApi.pdb
 /root/club-website-backend/CodeHawksApi/obj/Debug/net10.0/CodeHawksApi.genruntimeconfig.cache
 /root/club-website-backend/CodeHawksApi/obj/Debug/net10.0/ref/CodeHawksApi.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/BCrypt.Net-Next.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Resend.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/root/club-website-backend/CodeHawksApi/bin/Debug/net10.0/CodeHawksApi.staticwebassets.runtime.json

@@ -96,6 +96,21 @@ public partial class ClubDataContext : DbContext
                 .HasMaxLength(255)
                 .HasColumnName("profilepicurl");
 
+            entity.Property(e => e.is_verified)
+            .HasColumnName("is_verified");
+
+            entity.Property(e => e.Tempcode)
+            .HasMaxLength(6)
+            .HasColumnName("tempcode");
+
+            entity.Property(e => e.Linkedin)
+                .HasMaxLength(255)
+                .HasColumnName("linkedin");
+
+            entity.Property(e => e.Github)
+                .HasMaxLength(255)
+                .HasColumnName("github");
+
             entity.HasMany(d => d.Events).WithMany(p => p.Usernames)
                 .UsingEntity<Dictionary<string, object>>(
                     "EventMemberList",
